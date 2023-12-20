@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#navs {
+    display: flex;
+}
+#navs > ul {
+    display: flex;
+}
