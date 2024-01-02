@@ -3,10 +3,17 @@
     padding: 0px;
     box-sizing: border-box;
 }
+body {
+    background-color: black;
+    color: aliceblue;
+}
 
 #navs {
     display: flex;
 }
 #navs > ul {
     display: flex;
+}
+#nav > ul > li {
+    justify-content: space-around;
 }
